@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋 I'm Keanu Paul Bangahon
 
-<!--
-**hazkyan/hazkyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate coder with expertise in database management. I love diving into complex problems and crafting elegant solutions. My journey in tech began with my BS in Information Technology.
 
-Here are some ideas to get you started:
+## Education
+- **BS Computer Science**
+  - New Era University
+  - 2022-Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate
+- Oracle Cloud Data Management 2023 Certified Foundations Associate
+- Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+- SQL and Relational Databases 101
+
+## Skills
+- **Programming**: Java, JavaScript, Python
+- **Databases**: IBM DB2 Cloud
+- **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Get in Touch
+- LinkedIn: www.linkedin.com/in/hazpoldev
+- Email: hazpoldev@gmail.com
