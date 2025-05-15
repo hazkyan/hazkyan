@@ -21,3 +21,7 @@ I'm a passionate coder with expertise in database management. I love diving into
 ## Get in Touch
 - LinkedIn: www.linkedin.com/in/hazpoldev
 - Email: hazpoldev@gmail.com
+
+## LINKS:
+- https://haz-photogallery.infinityfreeapp.com/
+- https://se2attendance.vercel.app/
