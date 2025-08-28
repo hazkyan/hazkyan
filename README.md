@@ -1,3 +1,29 @@
+![MasterHead](masterhead.png)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hazpoldev/">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto: hazpoldev@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website">
+</a>
+<a href="https://t.me/hazhogen">
+   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="https://www.instagram.com/haaznx_/">
+   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+</p>
+
+<div align="center">
+
+| Program/Course | School | School Year |
+| :-------------: | :-----: | :-----------: |
+| Bachelor of Science in Computer Science | New Era University | 2022 - 2026 |
+| General Academic Strand Diploma  (SHS) | Remnant International Christian School | 2016 - 2022 |
+
+</div>
+
 ![React.js](https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=React.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,11 +50,27 @@
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+ 
+ <div align="center">
+
+| ![](https://github-readme-stats.vercel.app/api?username=hazkyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=hazkyan&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazkyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
 
-<div align="center">
+  
+| Certificate | Issued by | Date Issued |
+| :------------- | :-----: | :-----------: |
+| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
+| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
+| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
+| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
+| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
+| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
+| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
+| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
 
-| Program/Course | School | School Year |
-| :-------------: | :-----: | :-----------: |
-| Bachelor of Science in Computer Science | New Era University | 2022 - 2026 |
-| General Academic Strand Diploma  (SHS) | Remnant International Christian School | 2016 - 2022 |
+
+
+</div>
+
+
+
