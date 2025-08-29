@@ -60,13 +60,14 @@
 | Certificate | Issued by | Date Issued |
 | :------------- | :-----: | :-----------: |
 | <a href="https://drive.google.com/file/d/1551PPIP0rRmtHNMjjfH3wAeDEV3JTGa6/view?usp=drive_link">Data Analysis with Python</a> | IBM Developer Skills Network | August 2025 |
-| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
-| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
-| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
-| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
-| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
-| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
-| <a href="https://drive.google.com/file/d/1rJMW79FNnkwLRjjeE_8b51sLQgmmF8lF/view?usp=sharing">Digital Awareness</a> | Cisco | November 2024 |
+| <a href="https://drive.google.com/file/d/15Kvb2MlTnQRWGbvr7ckvWiJbppVxrCuw/view?usp=drive_link">SQL and Relational Database 101</a> | IBM Developer Skills Network | August 2025 |
+| <a href="https://drive.google.com/file/d/1MOGQPVeZCUoV3ma1kWVzRTrzpNz4rZeX/view?usp=drive_link">Data Science Essentials with Python</a> | Cisco Networking Academy | August 2025 |
+| <a href="https://drive.google.com/file/d/1EwT7rYCoLP6NK0DmRfQ-lu7WeOEaqLO0/view?usp=drive_link">Introduction to IoT</a> | Cisco Networking Academy | August 2025 |
+| <a href="https://drive.google.com/file/d/1nCvcSpnbB-9pb-PRX_2FLIRKLZtwhdb2/view?usp=drive_link">Python 101 for Data Science</a> | IBM Developer Skills Network | August 2025 |
+| <a href="https://drive.google.com/file/d/1iafHT37XguBDrMhXnZevi0tddN-diOQN/view?usp=drive_link">Introduction to Data Science</a> | Cisco Networking Academy | August 2025 |
+| <a href="https://drive.google.com/file/d/1FR0A2qlM6-YxD9c34gcSy1qq7V6I6C87/view?usp=drive_link">Oracle Cloud Infrastracture 2023 AI Certified Foundations Associate</a> | Oracle | May 2024 |
+| <a href="https://drive.google.com/file/d/1iY4sbm9i4u0StHPZLz0oZcFbrlgkxNlC/view?usp=drive_link">Oracle Cloud Infrastracture 2023 Certified Foundations Associate</a> | Oracle | May 2024 |
+| <a href="https://drive.google.com/file/d/1r99mXjdiX54n36JkexSBVC7owUV4-WNc/view?usp=drive_link">Oracle Cloud Data Management 2023 Certified Foundations Associate</a> | Oracle | May 2024 |
 
 
 
