@@ -59,12 +59,13 @@
   
 | Certificate | Issued by | Date Issued |
 | :------------- | :-----: | :-----------: |
+| <a href="https://drive.google.com/file/d/1lNqN7Mb9i6626ApD9cVgeUOXztqYwRDG/view?usp=drive_link">JavaScript Essentials 1</a> | OpenEDG JS Institute | August 2025 |
 | <a href="https://drive.google.com/file/d/1551PPIP0rRmtHNMjjfH3wAeDEV3JTGa6/view?usp=drive_link">Data Analysis with Python</a> | IBM Developer Skills Network | August 2025 |
 | <a href="https://drive.google.com/file/d/15Kvb2MlTnQRWGbvr7ckvWiJbppVxrCuw/view?usp=drive_link">SQL and Relational Database 101</a> | IBM Developer Skills Network | August 2025 |
-| <a href="https://drive.google.com/file/d/1MOGQPVeZCUoV3ma1kWVzRTrzpNz4rZeX/view?usp=drive_link">Data Science Essentials with Python</a> | Cisco Networking Academy | August 2025 |
+| <a href="https://drive.google.com/file/d/1A_LVMwKnakbN3y8779aZtoiaYTD5i0Au/view?usp=drive_link">Data Science Essentials with Python</a> | Cisco Networking Academy | August 2025 |
 | <a href="https://drive.google.com/file/d/1EwT7rYCoLP6NK0DmRfQ-lu7WeOEaqLO0/view?usp=drive_link">Introduction to IoT</a> | Cisco Networking Academy | August 2025 |
 | <a href="https://drive.google.com/file/d/1nCvcSpnbB-9pb-PRX_2FLIRKLZtwhdb2/view?usp=drive_link">Python 101 for Data Science</a> | IBM Developer Skills Network | August 2025 |
-| <a href="https://drive.google.com/file/d/1iafHT37XguBDrMhXnZevi0tddN-diOQN/view?usp=drive_link">Introduction to Data Science</a> | Cisco Networking Academy | August 2025 |
+| <a href="https://drive.google.com/file/d/1coaQGyhPl_NcJ09Yuw_ngAAjPTlhVgbN/view?usp=drive_link">Introduction to Data Science</a> | Cisco Networking Academy | August 2025 |
 | <a href="https://drive.google.com/file/d/1FR0A2qlM6-YxD9c34gcSy1qq7V6I6C87/view?usp=drive_link">Oracle Cloud Infrastracture 2023 AI Certified Foundations Associate</a> | Oracle | May 2024 |
 | <a href="https://drive.google.com/file/d/1iY4sbm9i4u0StHPZLz0oZcFbrlgkxNlC/view?usp=drive_link">Oracle Cloud Infrastracture 2023 Certified Foundations Associate</a> | Oracle | May 2024 |
 | <a href="https://drive.google.com/file/d/1r99mXjdiX54n36JkexSBVC7owUV4-WNc/view?usp=drive_link">Oracle Cloud Data Management 2023 Certified Foundations Associate</a> | Oracle | May 2024 |
@@ -72,6 +73,15 @@
 
 
 </div>
+
+<p>
+  <img src="https://images.credly.com/size/80x80/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="70"/>
+  <img src="https://images.credly.com/size/110x110/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="70"/>
+  <img src="https://images.credly.com/size/80x80/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="70"/>
+  <img src="https://images.credly.com/size/80x80/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="70"/>
+</p>
+
+
 
 
 
