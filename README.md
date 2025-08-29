@@ -59,6 +59,7 @@
   
 | Certificate | Issued by | Date Issued |
 | :------------- | :-----: | :-----------: |
+| <a href="https://drive.google.com/file/d/1WZLa3GXCoYHovILAjK8EfhD5xoefczW1/view?usp=drive_link">Introduction to Cloud</a> | IBM Developers Skills Network | August 2025 |
 | <a href="https://drive.google.com/file/d/1lNqN7Mb9i6626ApD9cVgeUOXztqYwRDG/view?usp=drive_link">JavaScript Essentials 1</a> | OpenEDG JS Institute | August 2025 |
 | <a href="https://drive.google.com/file/d/1551PPIP0rRmtHNMjjfH3wAeDEV3JTGa6/view?usp=drive_link">Data Analysis with Python</a> | IBM Developer Skills Network | August 2025 |
 | <a href="https://drive.google.com/file/d/15Kvb2MlTnQRWGbvr7ckvWiJbppVxrCuw/view?usp=drive_link">SQL and Relational Database 101</a> | IBM Developer Skills Network | August 2025 |
