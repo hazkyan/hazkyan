@@ -53,12 +53,13 @@
  
  <div align="center">
 
-| ![](https://github-readme-stats.vercel.app/api?username=hazkyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=hazkyan&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazkyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=hazkyan&theme=dark&hide_icons=true&locale=en) | ![](https://github-readme-streak-stats.herokuapp.com/?user=hazkyan&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=hazkyan&theme=dark&hide_icons=true&locale=en&layout=compact) |
 
 
   
 | Certificate | Issued by | Date Issued |
 | :------------- | :-----: | :-----------: |
+| <a href="https://drive.google.com/file/d/1ZvS9MHCezclBPQQft9ifzBVoEsT4MO5E/view?usp=drive_link">Oracle Cloud Data Platform 2025 Certified Foundations Associate</a> | Oracle | September 2025 |
 | <a href="https://drive.google.com/file/d/1WZLa3GXCoYHovILAjK8EfhD5xoefczW1/view?usp=drive_link">Introduction to Cloud</a> | IBM Developers Skills Network | August 2025 |
 | <a href="https://drive.google.com/file/d/1lNqN7Mb9i6626ApD9cVgeUOXztqYwRDG/view?usp=drive_link">JavaScript Essentials 1</a> | OpenEDG JS Institute | August 2025 |
 | <a href="https://drive.google.com/file/d/1551PPIP0rRmtHNMjjfH3wAeDEV3JTGa6/view?usp=drive_link">Data Analysis with Python</a> | IBM Developer Skills Network | August 2025 |
@@ -72,7 +73,6 @@
 | <a href="https://drive.google.com/file/d/1r99mXjdiX54n36JkexSBVC7owUV4-WNc/view?usp=drive_link">Oracle Cloud Data Management 2023 Certified Foundations Associate</a> | Oracle | May 2024 |
 
 
-
 </div>
 
 <p>
@@ -80,6 +80,7 @@
   <img src="https://images.credly.com/size/110x110/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="70"/>
   <img src="https://images.credly.com/size/80x80/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="70"/>
   <img src="https://images.credly.com/size/80x80/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="70"/>
+  <img src="https://images.credly.com/size/80x80/images/17fd144b-2541-441f-a11c-6ee0cc661689/OCI25DCFAV2_cached_image_20250903-31-3p99br.png" width="70"/>
 </p>
 
 
