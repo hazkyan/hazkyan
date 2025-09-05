@@ -59,6 +59,7 @@
   
 | Certificate | Issued by | Date Issued |
 | :------------- | :-----: | :-----------: |
+| <a href="https://drive.google.com/file/d/16tX3LgEuS19Ym2JoZwEPqX1ND__bhZ5c/view?usp=drive_link">JavaScript Essentials 2</a> | OpenEDG JS Institute | September 2025 |
 | <a href="https://drive.google.com/file/d/1ZvS9MHCezclBPQQft9ifzBVoEsT4MO5E/view?usp=drive_link">Oracle Cloud Data Platform 2025 Certified Foundations Associate</a> | Oracle | September 2025 |
 | <a href="https://drive.google.com/file/d/1WZLa3GXCoYHovILAjK8EfhD5xoefczW1/view?usp=drive_link">Introduction to Cloud</a> | IBM Developers Skills Network | August 2025 |
 | <a href="https://drive.google.com/file/d/1lNqN7Mb9i6626ApD9cVgeUOXztqYwRDG/view?usp=drive_link">JavaScript Essentials 1</a> | OpenEDG JS Institute | August 2025 |
@@ -75,12 +76,14 @@
 
 </div>
 
-<p>
+<p> 
   <img src="https://images.credly.com/size/80x80/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="70"/>
   <img src="https://images.credly.com/size/110x110/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="70"/>
   <img src="https://images.credly.com/size/80x80/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="70"/>
   <img src="https://images.credly.com/size/80x80/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="70"/>
   <img src="https://images.credly.com/size/80x80/images/17fd144b-2541-441f-a11c-6ee0cc661689/OCI25DCFAV2_cached_image_20250903-31-3p99br.png" width="70"/>
+  <img src="https://images.credly.com/size/80x80/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" width="70"/>
+  <img src="https://images.credly.com/size/80x80/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="70"/>
 </p>
 
 
