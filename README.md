@@ -50,15 +50,30 @@
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+ ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![API](https://img.shields.io/badge/API-005571.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=coursera&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=ibm&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+
+
+
+
  
  <div align="center">
 
-| ![](https://github-readme-stats.vercel.app/api?username=hazkyan&theme=dark&hide_icons=true&locale=en) | ![](https://github-readme-streak-stats.herokuapp.com/?user=hazkyan&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=hazkyan&theme=dark&hide_icons=true&locale=en&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=hazkyan&show_icons=true&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=hazkyan&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazkyan&layout=compact&theme=dark) |
 
 
   
 | Certificate | Issued by | Date Issued |
 | :------------- | :-----: | :-----------: |
+| <a href="https://drive.google.com/file/d/1WQfFUL1Vsirk-TZYtPiRoJpSq3aLuHI5/view?usp=drive_link">Data Science Tools</a> | IBM Developer Skills Network | September 2025 |
+| <a href="https://drive.google.com/file/d/1-Tvo5Ns1hpdWahL-s_sQphjmxC4s5Ug0/view?usp=drive_link">Data Visualizations with Python</a> | IBM Developer Skills Network | September 2025 |
 | <a href="https://drive.google.com/file/d/16tX3LgEuS19Ym2JoZwEPqX1ND__bhZ5c/view?usp=drive_link">JavaScript Essentials 2</a> | OpenEDG JS Institute | September 2025 |
 | <a href="https://drive.google.com/file/d/1ZvS9MHCezclBPQQft9ifzBVoEsT4MO5E/view?usp=drive_link">Oracle Cloud Data Platform 2025 Certified Foundations Associate</a> | Oracle | September 2025 |
 | <a href="https://drive.google.com/file/d/1WZLa3GXCoYHovILAjK8EfhD5xoefczW1/view?usp=drive_link">Introduction to Cloud</a> | IBM Developers Skills Network | August 2025 |
