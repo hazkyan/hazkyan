@@ -66,7 +66,7 @@
  
  <div align="center">
 
-| ![](https://github-readme-stats.vercel.app/api?username=hazkyan&show_icons=true&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=hazkyan&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazkyan&layout=compact&theme=dark) |
+| ![](https://github-readme-stats.vercel.app/api?username=hazkyan&show_icons=true&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=hazkyan&theme=dark&hide_border=false&cache_seconds=86400) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazkyan&layout=compact&theme=dark) |
 
 
   
