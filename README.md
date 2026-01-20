@@ -73,7 +73,10 @@
 | Certificate | Issued by | Date Issued |
 | :------------- | :-----: | :-----------: |
 | <a href="https://drive.google.com/file/d/1WQfFUL1Vsirk-TZYtPiRoJpSq3aLuHI5/view?usp=drive_link">Data Science Tools</a> | IBM Developer Skills Network | September 2025 |
+| <a href="https://drive.google.com/file/d/1SED4i23_tV3whoWYyeprLCIEU0XTtAyp/view?usp=drive_link">IBM Data Analyst Professional Certificate</a> | Coursera | September 2025 |
+| <a href="https://drive.google.com/file/d/1S17_6anr7XfjkKZOI6ZXwaEdTdW0AsA3/view?usp=drive_link">Google Data Analyst Professional Certificate</a> | Coursera | September 2025 |
 | <a href="https://drive.google.com/file/d/1-Tvo5Ns1hpdWahL-s_sQphjmxC4s5Ug0/view?usp=drive_link">Data Visualizations with Python</a> | IBM Developer Skills Network | September 2025 |
+| <a href="https://drive.google.com/file/d/1PE6Oo1XY_cscl-D2O8QJoUVuzuNvYNZm/view?usp=drive_link">Data Analysis and Visualization Foundations Specialization</a> | Coursera | September 2025 |
 | <a href="https://drive.google.com/file/d/16tX3LgEuS19Ym2JoZwEPqX1ND__bhZ5c/view?usp=drive_link">JavaScript Essentials 2</a> | OpenEDG JS Institute | September 2025 |
 | <a href="https://drive.google.com/file/d/1ZvS9MHCezclBPQQft9ifzBVoEsT4MO5E/view?usp=drive_link">Oracle Cloud Data Platform 2025 Certified Foundations Associate</a> | Oracle | September 2025 |
 | <a href="https://drive.google.com/file/d/1WZLa3GXCoYHovILAjK8EfhD5xoefczW1/view?usp=drive_link">Introduction to Cloud</a> | IBM Developers Skills Network | August 2025 |
