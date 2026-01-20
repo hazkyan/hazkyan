@@ -72,6 +72,7 @@
   
 | Certificate | Issued by | Date Issued |
 | :------------- | :-----: | :-----------: |
+| <a href="https://drive.google.com/file/d/1bKde4-y5bqbu4_apGq7fASjLhaWqxyAD/view?usp=sharing">Gemini Certified Student</a> | Google | January 2026 |
 | <a href="https://drive.google.com/file/d/1WQfFUL1Vsirk-TZYtPiRoJpSq3aLuHI5/view?usp=drive_link">Data Science Tools</a> | IBM Developer Skills Network | September 2025 |
 | <a href="https://drive.google.com/file/d/1SED4i23_tV3whoWYyeprLCIEU0XTtAyp/view?usp=drive_link">IBM Data Analyst Professional Certificate</a> | Coursera | September 2025 |
 | <a href="https://drive.google.com/file/d/1S17_6anr7XfjkKZOI6ZXwaEdTdW0AsA3/view?usp=drive_link">Google Data Analyst Professional Certificate</a> | Coursera | September 2025 |
